@@ -1,0 +1,18 @@
+.all * {
+    box-sizing: border-box;
+}
+
+.icons {
+    color: rgb(254 249 195);
+    margin-right: 5px;
+    padding: 5px;
+    width: 2rem;
+}
+
+.Exclamation {
+    color: #f0f8ff;
+    width: 15rem;
+    height: 12rem;
+    justify-self: center;
+    align-self: center;
+}
