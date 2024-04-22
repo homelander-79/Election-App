@@ -1,4 +1,4 @@
-**Election App **
+# Election App
 
 Welcome to our Election App, a cutting-edge platform built on Web 3 technology to revolutionize the electoral process. Below, you'll find all the necessary information to get started with our app.
 
